@@ -5,7 +5,7 @@ Handwritten digit recognition (HDR) is considered one of trivial and critical ma
 Here, we have 
 
 • Built a digit recognizer based on MNIST digits dataset recognizing handwritten digits from 0 to 9 in 8 x 8 pixel images.
-• Finalized machine learning model was a logistic regression model with train accuracy 100% and test accuracy 97.2%.
+• Finalized machine learning model was a CNN based model with train accuracy 99.6% and test accuracy 97.2%.
 
 ### About dataset
 The MNIST database is a large collection of handwritten digits. It has a training set of 60,000 examples, and a test set of 10,000 examples. 
