@@ -9,3 +9,6 @@ Here, we have
 
 ### About dataset
 The MNIST database is a large collection of handwritten digits. It has a training set of 60,000 examples, and a test set of 10,000 examples. 
+
+Create input folder and put test.csv and train.csv into it.
+Then run this notebook to get desired result
